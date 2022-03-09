@@ -32,12 +32,12 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Kamu perlu setidaknya tingkat 3 untuk mengakses bursa",
+ 	 	 	 	"trans": "Kamu harus setidaknya tingkat 3 untuk mengakses bursa",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Apakah kamu ingin membeli Unit , atau menggunakan Unit yang kau punya?"
+ 	 	 	 	 	"Apakah kamu ingin membeli Unit, atau menggunakan Unit yang kau punya?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -54,12 +54,12 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Kamu perlu setidaknya tingkat 5 untuk mengakses pedagang kosmetik",
+ 	 	 	 	"trans": "Kamu harus setidaknya tingkat 5 untuk mengakses pedagang kosmetik",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hai! Donasi untuk mendapatkan fasilitas kosmetik dan untuk membantu mendukung game Free-to-Win seperti ini!"
+ 	 	 	 	 	"Hai! Beri donasi untuk mendapatkan fasilitas kosmetik dan untuk membantu mendukung game Free-to-Win seperti ini!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
@@ -68,7 +68,7 @@
  	 	},
  	 	"printer": {
  	 	 	"name": {
- 	 	 	 	"trans": "Printer 3d Molekuler",
+ 	 	 	 	"trans": "Pencetak 3d Molekuler",
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
@@ -77,7 +77,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Saya akan mencetak apa pun yang Anda inginkan jika Anda memiliki bahan yang cukup!"
+ 	 	 	 	 	"Aku akan mencetak apapun yang kamu inginkan jika kamu memiliki bahan yang cukup!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll print whatever you want if you have the cache!"
@@ -91,7 +91,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Kau Akan Menemukan perlengkapan (gear) terbaik disini, percaya kepada ku."
+ 	 	 	 	 	"Kamu akan menemukan perlengkapan (gear) terbaik di sini, percayalah kepadaku."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"You will find the best gear here, trust me."
@@ -104,20 +104,20 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Untuk lanjut ke area selanjutnya, kamu membutuhkan Keping Kunci Rahasia (Secret Key Fragments) dari rubanah, \r\n        dan gunakan Terminal untuk Brute Force untuk mendapatkan kunci ke area selanjutnya",
+ 	 	 	 	"trans": "Untuk lanjut ke area selanjutnya, kamu membutuhkan Bagian Kunci Rahasia (Secret Key Fragments) dari rubanah, \r\n        dan gunakan Terminal untuk membuat (Brute Force) kunci ke area selanjutnya",
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Meskipun sudah sedikit usang, Komputermu dapat menyelesaikan pekerjaan dengan sedikit kesabaran",
+ 	 	 	 	"trans": "Meskipun sudah sedikit usang, komputermu dapat menyelesaikan pekerjaan dengan sedikit kesabaran",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Kamu perlu setidaknya tingkat 5 untuk mengakses terminal",
+ 	 	 	 	"trans": "Kamu harus setidaknya tingkat 5 untuk mengakses terminal",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Saya akan membantu Anda untuk maju ke area berikutnya!"
+ 	 	 	 	 	"Aku akan membantumu untuk maju ke area berikutnya!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll help you to progress to the next area!"
@@ -144,12 +144,12 @@
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Kamu perlu setidaknya tingkat 5 untuk mengakses bank",
+ 	 	 	 	"trans": "Kamu harus setidaknya tingkat 5 untuk mengakses bank",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Selamat datang. Apa yang bisa saya simpan untuk Anda?"
+ 	 	 	 	 	"Selamat Datang. Apa yang bisa Aku simpan untukmu?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Welcome. What can I store for you?"
@@ -166,12 +166,12 @@
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Anda harus setidaknya tingkat 10 untuk mengakses stasiun kalibrasi",
+ 	 	 	 	"trans": "Kamu harus setidaknya tingkat 10 untuk mengakses Stasiun Kalibrasi",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Masukkan Inti Kalibrasi ke dalam mesin, dan saya akan membantu Anda mengkalibrasi peralatan Anda."
+ 	 	 	 	 	"Masukkan Inti Kalibrasi ke dalam mesin, dan Aku akan membantu mengkalibrasi peralatanmu."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
@@ -184,16 +184,16 @@
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Sebuah toko bisnis keluarga yang membolehkanmu barter barang dengan yang mereka temukan ketika sedang mencari barang",
+ 	 	 	 	"trans": "Sebuah toko bisnis keluarga yang mengizinkanmu barter barang dengan yang mereka temukan ketika sedang mencari barang",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Kamu perlu setidaknya tingkat 10 untuk mengakses pedagang",
+ 	 	 	 	"trans": "Kamu harus setidaknya tingkat 10 untuk mengakses pedagang",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hei nak, saya Lee, Anda tahu, Anda tidak perlu membawa semua yang Anda miliki di saku Anda."
+ 	 	 	 	 	"Hei nak, Aku Lee. Kamu tahu, kamu tidak perlu membawa semua barang di sakumu."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
@@ -206,7 +206,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Pendaur ulang yang sepenuhnya otomatis, mampu mendaur ulang item ke bentuk scrap dasar",
+ 	 	 	 	"trans": "Pendaur ulang yang sepenuhnya otomatis, mampu mendaur ulang barang ke bentuk scrap dasar",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -245,31 +245,31 @@
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "Tingkat Mencetak",
+ 	 	 	 	"trans": "tingkat mencetak",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
  	 	"medical": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ilmu medis",
+ 	 	 	 	"trans": "ilmu medis",
  	 	 	 	"eng": "medical science"
  	 	 	}
  	 	},
  	 	"ammo": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pembuatan Amunisi",
+ 	 	 	 	"trans": "pembuatan amunisi",
  	 	 	 	"eng": "ammo crafting"
  	 	 	}
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "Keahlian Mencari",
+ 	 	 	 	"trans": "keahlian mencari",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
  	 	"mining": {
  	 	 	"name": {
- 	 	 	 	"trans": "Keahlian Menambang",
+ 	 	 	 	"trans": "keahlian menambang",
  	 	 	 	"eng": "mining skill"
  	 	 	}
  	 	}
@@ -281,7 +281,7 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Central Hub]\r\n        Salah satu kota tersibuk di benua ini, di sini, kamu dapat menemukan segala macam orang dari berbagai belahan dunia.",
+ 	 	 	 	"trans": "[Central Hub]\r\n        Salah satu kota tersibuk di benua ini. Di sini kamu dapat menemukan berbagai macam orang dari berbagai belahan dunia.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
@@ -290,7 +290,7 @@
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Mulai petualangan kamu untuk mendapatkan jarahan epik di sini",
+ 	 	 	 	 	"trans": "Mulai petualanganmu untuk mendapatkan jarahan epik di sini",
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
@@ -304,7 +304,7 @@
  	 	 	 	 	"eng": "Go to Shangri-La Commercial Area"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Kamu dapat menyelesaikan pekerjaan AFK untuk menaikkan tingkat kemampuan kamu di sini",
+ 	 	 	 	 	"trans": "Kamu dapat menyelesaikan pekerjaan AFK untuk menaikkan tingkat kemampuanmu di sini",
  	 	 	 	 	"eng": "You can complete AFK jobs to increase your skills here"
  	 	 	 	}
  	 	 	},
@@ -331,7 +331,7 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Job Hub]\r\n        Banyak toko dan tempat bisnis, lokasi yang cocok untuk mencoba kemampuan kamu.",
+ 	 	 	 	"trans": "[Job Hub]\r\n        Banyak toko dan tempat bisnis. Lokasi yang cocok untuk meningkatkan kemampuanmu.",
  	 	 	 	"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -347,7 +347,7 @@
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Player Market]\r\n        Jalan Pasar yang sangat terkenal di Shangri-La. banyak kios penjual di sini.\r\n        mungkin kamu dapat menemukan yang kamu cari atau membuka lapak sendiri.",
+ 	 	 	 	"trans": "[Player Market]\r\n        Jalan pasar yang sangat terkenal di Shangri-La. Banyak kios penjual di sini.\r\n        mungkin kamu dapat menemukan apa yang kamu cari atau membuka lapak sendiri.",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
@@ -363,7 +363,7 @@
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Adventure]\r\n        dengan Menggunakan hyperloop, kamu dapat bepergian dengan kecepatan tinggi melewati benua dengan mudah.",
+ 	 	 	 	"trans": "[Adventure]\r\n        Dengan Menggunakan hyperloop, kamu dapat bepergian dengan kecepatan tinggi melewati benua dengan mudah.",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop, you can travel at supersonic speed across the continent with ease."
  	 	 	}
  	 	},
@@ -414,12 +414,12 @@
  	 	"segment": {
  	 	 	"locked": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Kumpulkan 3 Kepingan kunci (Key Fragments) yang berbeda dari Rubanah pada 3 Zona pada stasiun sebelumnya, \r\n                    Kemudian pergi ke [Terminal] di Pusat Kota [Hub] untuk brute-force (Craft) kunci yang dibutuhkan untuk membuka area ini",
+ 	 	 	 	 	"trans": "Kumpulkan 3 Bagian kunci (Key Fragments) yang berbeda dari Rubanah pada 3 Zona pada stasiun sebelumnya, \r\n                    Kemudian pergi ke [Terminal] di Pusat Kota [Hub] untuk membuat (Brute-Force) kunci yang dibutuhkan untuk membuka area ini",
  	 	 	 	 	"eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
  	 	 	 	}
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Area mulai dari Tingkat 1 sampai 10",
+ 	 	 	 	"trans": "Mulai dari area tingkat 1 sampai 10",
  	 	 	 	"eng": "Start with level 1 to 10 area"
  	 	 	},
  	 	 	"toZone": {
@@ -499,14 +499,14 @@
  	 	 	 	 	"segmentDisplayName",
  	 	 	 	 	"fragmentNum"
  	 	 	 	],
- 	 	 	 	"trans": "Kepingan Kunci ${segmentDisplayName} ${fragmentNum}",
+ 	 	 	 	"trans": "Bagian Kunci ${segmentDisplayName} ${fragmentNum}",
  	 	 	 	"eng": "${segmentDisplayName} Key Fragment ${fragmentNum}"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Kepingan kunci Rahasia (Secret key Fragment) digunakan untuk serang-paksa sebuah Kunci Rahasia(secret key).\r\n                                Gunakan Terminal di Pusat Kota [Hub] untuk serang paksa Kunci Rahasia ${segmentDisplayName}.\r\n                                Kamu dapat menemukan setiap bagian dari 3 bagian kunci yang dibutuhkan di setiap Rubanah (normal atau menantang),\r\n                                Ketika kamu mendapatkan 3 kunci, Kamu dapat menggunakan Terminal untuk bentuk paksa (Craft) sebuah kunci ke area selanjutnya",
+ 	 	 	 	"trans": "Bagian kunci Rahasia (Secret key Fragment) digunakan untuk membuat (brute-force) sebuah Kunci Rahasia(secret key).\r\n                                Gunakan Terminal di Pusat Kota [Hub] untuk membuat (brute-force) Kunci Rahasia ${segmentDisplayName}.\r\n                                Kamu dapat menemukan setiap bagian dari 3 bagian kunci yang dibutuhkan di setiap Rubanah (normal atau menantang),\r\n                                Ketika kamu mendapatkan 3 kunci, Kamu dapat menggunakan Terminal untuk bentuk paksa (Craft) sebuah kunci ke area selanjutnya",
  	 	 	 	"eng": "A secret key Fragment used to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
  	 	 	}
  	 	},
@@ -523,7 +523,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "sebuah bahan ${typeName} mengandung informasi untuk dicetak di Printer Molecular 3D, \r\n                    Kamu dapat membuat sebuah ${typeName} dengan [Molecular 3d Printer] di [Central Hub].\r\n                    \r\n                    Pro tip: tingkat Barang yang kamu dapatkan tergantung pada Tingkat Mencetak kamu,\r\n                    jadi selalu print dengan tingkat trash dulu, karena murah dan berguna untuk menaikkan tingkat mencetakmu",
+ 	 	 	 	"trans": "sebuah bahan ${typeName} mengandung informasi untuk dicetak di Pencetak 3D Molekular, \r\n                    Kamu dapat membuat sebuah ${typeName} dengan [Pencetak 3D Molekular] di [Central Hub].\r\n                    \r\n                    Pro tip: Tingkat barang yang kamu dapatkan tergantung pada Tingkat Mencetakmu,\r\n                    jadi selalu cetak dengan tingkat trash dulu, karena murah dan berguna untuk menaikkan tingkat mencetakmu",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -535,55 +535,55 @@
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Armor bagian atas",
+ 	 	 	 	"trans": "armor bagian atas",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Armor bagian bawah",
+ 	 	 	 	"trans": "armor bagian bawah",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
  	 	"boots": {
  	 	 	"name": {
- 	 	 	 	"trans": "Sepatu",
+ 	 	 	 	"trans": "sepatu",
  	 	 	 	"eng": "boots"
  	 	 	}
  	 	},
  	 	"upgradeModule": {
  	 	 	"name": {
- 	 	 	 	"trans": "Modul upgrade",
+ 	 	 	 	"trans": "modul upgrade",
  	 	 	 	"eng": "upgrade module"
  	 	 	}
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Penghilang rasa sakit",
+ 	 	 	 	"trans": "Aspirin",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Apakah kamu sakit kepala? gunakan Penghilang Rasa Sakit™ untuk menghilangkan sakit kepalamu!",
+ 	 	 	 	"trans": "Apakah kamu sakit kepala? Gunakan Aspirin™ untuk menghilangkan sakit kepalamu!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bot Perbaikan Nano Kualitas Rendah",
+ 	 	 	 	"trans": "Bot Nano Perbaikan Terdegradasi",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Bot perbaikan nano tua, biasanya digunakan untuk memperbaiki perangkat teknologi tingkat rendah",
+ 	 	 	 	"trans": "Mesin perbaikan nano yang usang, biasanya digunakan untuk memperbaiki perangkat berteknologi rendah",
  	 	 	 	"eng": "An old nano repair bot, usually used to repair small tech devices."
  	 	 	}
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bot Medis Nano Kualitas Kendah",
+ 	 	 	 	"trans": "Bot Medis Nano Terdegradasi",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Bot medis nano tua, suntikkan untuk menyembuhkan segala luka(*Syarat Berlaku)!",
+ 	 	 	 	"trans": "Mesin medis nano usang yang digunakan untuk menyembuhkan segala luka (*syarat berlaku)!",
  	 	 	 	"eng": "Old nano medic bot is used to cure any (*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -593,7 +593,7 @@
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "suntikkan untuk menyembuhkan segala luka(*Syarat Berlaku)",
+ 	 	 	 	"trans": "Suntikkan untuk menyembuhkan segala luka(*syarat berlaku)",
  	 	 	 	"eng": "Inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -603,7 +603,7 @@
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano mesin yang dapat disuntikkan dan biasa digunakan untuk keperluan militer, dapat menutup luka ketika bertarung.",
+ 	 	 	 	"trans": "Mesin nano yang dapat disuntikkan dan biasa digunakan untuk keperluan militer. Dapat menutup luka ketika bertarung.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -613,7 +613,7 @@
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Mesin nano yang dapat disuntik dan biasanya dipakai oleh militer, dapat untuk menutup luka ketika bertarung.",
+ 	 	 	 	"trans": "Mesin nano yang dapat disuntik dan biasanya dipakai oleh militer. Dapat menutup luka ketika bertarung.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -623,7 +623,7 @@
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Mesin nano yang dapat disuntik dan biasanya dipakai untuk keperluan militer canggih, dapat digunakan untuk menutup luka ketika bertarung.",
+ 	 	 	 	"trans": "Mesin nano yang dapat disuntik dan biasanya dipakai untuk keperluan militer canggih. Dapat menutup luka ketika bertarung.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -633,17 +633,17 @@
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Mesin nano yang dapat disuntik dan biasanya dipakai untuk keperluan militer canggih,dapat digunakan untuk menutup luka ketika bertarung.",
+ 	 	 	 	"trans": "Mesin nano yang dapat disuntik dan biasanya dipakai untuk keperluan militer canggih. Dapat menutup luka ketika bertarung.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Semprotan Penghilang Rasa Sakit.",
+ 	 	 	 	"trans": "Semprotan Aspirin",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Apakah kamu dan temanmu sakit kepala bersama? gunakan Semprotan Penghilang Rasa Sakit™ untuk menghilangkan rasa sakitnya!",
+ 	 	 	 	"trans": "Apakah kamu dan temanmu sakit kepala? Gunakan Semprotan Aspirin™ untuk menghilangkan rasa sakitnya!",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
